@@ -1,0 +1,30 @@
+_repo: The-Works-of-the-Rev.-Hugh-Binning_24238
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Binning, Hugh
+    birthdate: 1627
+    deathdate: 1653
+    gutenberg_agent_id: '26339'
+    url: http://www.gutenberg.org/2009/agents/26339
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Binning
+description: ''
+gutenberg_issued: '2008-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theology -- Early works to 1800'
+- !lcsh 'Theology -- History -- 17th century'
+- !lcsh 'Sermons, English'
+- !lcsh 'Presbyterian Church -- Sermons'
+- !lcc 'BX'
+title: The Works of the Rev. Hugh Binning
+url: http://www.gutenberg.org/ebooks/24238
