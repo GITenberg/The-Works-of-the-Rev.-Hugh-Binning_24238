@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26339
     wikipedia: http://en.wikipedia.org/wiki/Hugh_Binning
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24238#The-Works-of-the-Rev.-Hugh-Binning
 gutenberg_issued: '2008-01-10'
 gutenberg_type: Text
 identifiers:
